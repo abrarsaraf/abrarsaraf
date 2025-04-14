@@ -54,5 +54,122 @@ integrity and accuracy.
 - Performed Exploratory data analysis (EDA) using Python libraries like Matplotlib and Seaborn to uncover
 trends and patterns.
 - Designed and implemented SQL queries for data extraction, transformation, and aggregation from multiple
+datasets.
+- Applied statistical analysis and hypothesis testing to derive actionable insights and validate business
+decisions.
+- Built interactive dashboards and visualizations using Tableau and Excel to present findings effectively.
+- Conducted predictive analytics using machine learning models (Scikit-learn) to forecast trends and support
+decision-making.
+- Automated data cleaning and transformation workflows using Jupyter Notebook and Python scripts.
+- Documented insights and presented key findings through a structured report and stakeholder-friendly
+presentations
+
+Google Data Analytics Capstone Project
+Optimized decision-making using real-world data analysis
+- Data Collection & Cleaning: Extracted, cleaned, and processed raw data using SQL, R, and Excel to ensure
+accuracy and consistency.Exploratory Data Analysis (EDA): Used R and Python for data visualization and
+trend identification to uncover key insights.
+- Data Visualization: Created interactive dashboards in Tableau and compelling reports using Google Sheets
+for stakeholder communication.
+- Statistical Analysis: Applied hypothesis testing and regression analysis to derive meaningful business
+insights.
+- SQL Querying: Wrote complex SQL queries to filter, aggregate, and analyze large datasets efficiently.
+- Problem-Solving & Insights Generation: Interpreted data patterns to provide data-driven recommendations
+for business strategy.
+- End-to-End Project Execution: Followed the data analysis lifecycle (Ask, Prepare, Process, Analyze, Share,
+Act) to deliver a structured solution
+
+Microsoft Deploy and Maintain Power BI Assets and Capstone Project
+- Data Extraction & Transformation: Collected raw data from multiple sources and cleaned it using Power
+Query for seamless integration into Power BI.
+- Data Modeling: Designed and optimized relational data models using DAX calculations and relationships to
+enhance performance and insights.
+- Advanced DAX Measures: Created custom KPIs and calculated columns using DAX to provide dynamic insights
+and trend analysis.
+- Interactive Dashboards: Developed visually compelling and interactive Power BI dashboards for real-time
+business decision-making.
+- Performance Optimization: Applied optimization techniques, such as aggregations and indexing, to improve
+report efficiency.
+- Row-Level Security (RLS): Implemented data security measures to restrict access based on user roles.
+- Deployment & Sharing: Published reports to Power BI Service and configured scheduled refreshes for
+automated data updates.
+- Stakeholder Communication: Presented insights effectively to stakeholders, demonstrating data-driven
+decision-making capabilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
