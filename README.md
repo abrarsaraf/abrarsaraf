@@ -1,175 +1,24 @@
-# Data Analyst
-SKILLS SUMMARY
+# 💫 About Me:
+Data Analytics Professional | SQL, Python, R, Power BI Expert | Economist with Strong Analytical Insights | Turning Data into Actionable Results
 
-- Languages: Python, SQL , R
-  
-- Frameworks: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
-  
-- Tools: Power BI, Excel, Tableau, MySQL,Google data studios
-  
-- Platforms: Jupyter Notebooks, Visual Studio Code
-  
-- Web & Digital Analytics: Google Analytics, Google Tag Manager
-  
-- Soft skills: Rapport Building, Strong Stakeholder Management, Analytical thinking, Data storytelling
 
-### Education
-Master of Economics 
-CGPA: 8.940 October 2017 -April 2019
-Savitribai Phule Pune University Pune, India
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abrar-saraf122) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrarsaraf@gmail.com) 
 
-### Work Experience 
-Data Analyst Intern @ Unified Mentor
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abrarsaraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abrarsaraf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarsaraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Netflix Data: Cleaning, Analysis and Visualization project:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abrarsaraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- Cleaned and transformed Netflix content data (2008–2021) using Python (Pandas, NumPy) and SQL, handling missing values, duplicates, and data type inconsistencies.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abrarsaraf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- Conducted exploratory data analysis (EDA) to uncover trends in content types, genres, ratings, and release patterns, using Matplotlib, Seaborn, and WordCloud for visual storytelling.
+---
+[![](https://visitcount.itsvg.in/api?id=abrarsaraf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- Built insightful dashboards with Tableau, highlighting yearly and monthly content release trends, top contributing countries, and popular genres.
-
-- Extracted and engineered features such as release year, month, and director frequency, paving the way for predictive modeling and recommendation system prototypes.
-
-- Demonstrated data visualization proficiency through interactive plots and compelling data-driven narratives to support business insights.
-
-Stock Market Analysis project
-
-- Analyzed and compared stock performance of Apple, Microsoft, Netflix, and Google using Python (Pandas, NumPy) and Matplotlib/Seaborn for trend identification and visualization.
-
-- Performed data cleaning and preprocessing, including handling nulls, converting datatypes, and engineering time-based features like moving averages and volatility.
-
-- Conducted exploratory data analysis (EDA) to identify correlations between closing prices, volume, and other key metrics using heatmaps, scatter plots, and distribution charts.
-
-- Implemented correlation analysis and feature scaling to prepare data for machine learning models using scikit-learn.
-
-- Generated automated insights using Pandas Profiling and interpreted patterns to support market trend forecasting and investment strategies.
-
-
-### Projects
-
-IBM Data Analytics Capstone Project
-- Collected, cleaned, and processed real-world datasets using ;Python (Pandas, NumPy) and SQL to ensure data
-integrity and accuracy.
-- Performed Exploratory data analysis (EDA) using Python libraries like Matplotlib and Seaborn to uncover
-trends and patterns.
-- Designed and implemented SQL queries for data extraction, transformation, and aggregation from multiple
-datasets.
-- Applied statistical analysis and hypothesis testing to derive actionable insights and validate business
-decisions.
-- Built interactive dashboards and visualizations using Tableau and Excel to present findings effectively.
-- Conducted predictive analytics using machine learning models (Scikit-learn) to forecast trends and support
-decision-making.
-- Automated data cleaning and transformation workflows using Jupyter Notebook and Python scripts.
-- Documented insights and presented key findings through a structured report and stakeholder-friendly
-presentations
-
-Google Data Analytics Capstone Project
-Optimized decision-making using real-world data analysis
-- Data Collection & Cleaning: Extracted, cleaned, and processed raw data using SQL, R, and Excel to ensure
-accuracy and consistency.Exploratory Data Analysis (EDA): Used R and Python for data visualization and
-trend identification to uncover key insights.
-- Data Visualization: Created interactive dashboards in Tableau and compelling reports using Google Sheets
-for stakeholder communication.
-- Statistical Analysis: Applied hypothesis testing and regression analysis to derive meaningful business
-insights.
-- SQL Querying: Wrote complex SQL queries to filter, aggregate, and analyze large datasets efficiently.
-- Problem-Solving & Insights Generation: Interpreted data patterns to provide data-driven recommendations
-for business strategy.
-- End-to-End Project Execution: Followed the data analysis lifecycle (Ask, Prepare, Process, Analyze, Share,
-Act) to deliver a structured solution
-
-Microsoft Deploy and Maintain Power BI Assets and Capstone Project
-- Data Extraction & Transformation: Collected raw data from multiple sources and cleaned it using Power
-Query for seamless integration into Power BI.
-- Data Modeling: Designed and optimized relational data models using DAX calculations and relationships to
-enhance performance and insights.
-- Advanced DAX Measures: Created custom KPIs and calculated columns using DAX to provide dynamic insights
-and trend analysis.
-- Interactive Dashboards: Developed visually compelling and interactive Power BI dashboards for real-time
-business decision-making.
-- Performance Optimization: Applied optimization techniques, such as aggregations and indexing, to improve
-report efficiency.
-- Row-Level Security (RLS): Implemented data security measures to restrict access based on user roles.
-- Deployment & Sharing: Published reports to Power BI Service and configured scheduled refreshes for
-automated data updates.
-- Stakeholder Communication: Presented insights effectively to stakeholders, demonstrating data-driven
-decision-making capabilities.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
