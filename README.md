@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics Professional | SQL, Python, R, Power BI Expert | Economist with Strong Analytical Insights | Turning Data into Actionable Results
+Data Analytics Professional |Excel, SQL, Python, R, Power BI Expert | Economist with Strong Analytical Insights | Turning Data into Actionable Results
 
 
 ## 🌐 Socials:
